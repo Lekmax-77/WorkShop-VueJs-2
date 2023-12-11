@@ -82,7 +82,7 @@ The initial setup of the workshop will guide participants through creating a Vue
 3. **Start the Backend Server**: Run the server using:
     
     ```bash
-    npm start
+    npm run dev
     ```
     
     This will launch the backend server on `http://localhost:3000`, ready to respond to the Vue.js application's requests.
